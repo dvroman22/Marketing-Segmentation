@@ -26,17 +26,17 @@ For this project I used online retail data https://archive.ics.uci.edu/ml/datase
 
 Text Mining of Top 100 Words found in the Description variable:
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![top 100 words](https://user-images.githubusercontent.com/34171862/53711898-bee3cb80-3e01-11e9-900b-bc5725e6e0f6.png)
 
 Clustering of Words in the Description variable to create product categories:
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![silhouette cluster - 5 product categories](https://user-images.githubusercontent.com/34171862/53759129-d744fc00-3e7c-11e9-95c6-922de57a0b2a.PNG)
 
 # Cluster Analysis of Customer Similarities
 
 Clustering of Customer Segmentation to identify customer behaviors:
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![silhouette cluster - 11 customer categories](https://user-images.githubusercontent.com/34171862/53780821-3a598180-3ec3-11e9-9887-1040dce17487.PNG)
 
 
 # Modeling Analysis
@@ -49,11 +49,11 @@ The four models used to classify this clusters:
 
 The best performing model was the Support Vector Machine with a classification accuracy of 94.5.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![svm confusion matrix](https://user-images.githubusercontent.com/34171862/53780881-902e2980-3ec3-11e9-9960-e4bf53e9dc29.png)
 
 # Conclusions
 
-* Overall, this cluster classificaton was good.  I believe using more features such as demographic data would be more helpful in furthing identifying customer buying behaviors.
+* Overall, this cluster classificaton was good.  I believe using more features such as demographic data would be more helpful in furthing distiguishing customer buying behaviors.
 * This project demonstrated many aspects that emerge in the marketing industries from the data cleansing to the modeling.
 
 
