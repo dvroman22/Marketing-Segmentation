@@ -87,5 +87,15 @@ Confusion matrix for the best performing model (SVM):
 
 # References
 
+YouTube link: https://youtu.be/1Utdpgvp8J8
 
-<link to video >
+Chen, D.Y (2008) Pandas for Everyone: Pearson Education, Inc.
+
+Gringsby, M. (2016) Advanced Customer Analytics: Targeting, Valuing, Segmenting and Loyalty Techniques (Marketing Science): Kogan Page Limited
+
+Joshi, P. (2016) Analyzing Text Data. Python Machine Learning Cookbook, 131-150: Packt Publishing.
+
+Wind, Y & Bell, D. (2008), Marketing Segmentation. The Marketing Book (Sixth Edition), 222-244. https://doi.org/10.1016/B978-0-7506-8566-5.50015-7
+
+
+
